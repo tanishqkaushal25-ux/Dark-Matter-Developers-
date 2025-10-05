@@ -2,9 +2,9 @@
 
 \ Team Information
 
-\*\*Team Name:\*\* \[STELLAR ATLAS\]
+\\Team Name:\\ \[STELLAR ATLAS\]
 
-\*\*Team Members:\*\*
+\\Team Members:\\
 
 \- \[Member 1 - TANISHQ KAUSHAL\] - \[TEAM LEADER / FULL STACK\]
 
@@ -16,13 +16,13 @@
 
 \---
 
-\## Project Name
+\ Project Name
 
-\*\*StellerAtlas\*\*
+\\StellerAtlas\\
 
 \---
 
-\## Project Abstract
+\ Project Abstract
 
 StellerAtlas is an innovative astronomy education platform designed to democratize celestial knowledge and make stargazing accessible to everyone. The platform addresses the critical gap in astronomy education where existing solutions fail to efficiently guide beginners through the complex world of stargazing, with resources that are fragmented, overly technical, and lacking structured learning paths.
 
@@ -48,51 +48,51 @@ StellerAtlas aims to reduce the 73% beginner dropout rate in amateur astronomy b
 
 \---
 
-\## Tech Stack
+\ Tech Stack
 
-\### Frontend
+\ Frontend
 
-\- \*\*HTML5\*\* - Semantic markup and structure
+\- \\HTML5\\ - Semantic markup and structure
 
-\- \*\*CSS3\*\* - Responsive styling and animations
+\- \\CSS3\\ - Responsive styling and animations
 
-\- \*\*JavaScript\*\* - Interactive UI components and client-side logic
+\- \\JavaScript\\- Interactive UI components and client-side logic
 
-\### Backend
+\ Backend
 
-\- \*\*Flask (Python)\*\* - RESTful API framework for server-side logic
+\- \\Flask (Python)\\ - RESTful API framework for server-side logic
 
-\- \*\*SMTP (Simple Mail Transfer Protocol)\*\* - Email automation and delivery
+\- \\SMTP (Simple Mail Transfer Protocol)\\ - Email automation and delivery
 
-\- \*\*SSL/TLS\*\* - Secure email transmission
+\- \\SSL/TLS\\ - Secure email transmission
 
-\### Libraries & Frameworks
+\ Libraries & Frameworks
 
-\- \*\*Flask-CORS\*\* - Cross-Origin Resource Sharing support
+\- \\Flask-CORS\\ - Cross-Origin Resource Sharing support
 
-\- \*\*smtplib\*\* - Python standard library for SMTP protocol
+\- \\smtplib\\ - Python standard library for SMTP protocol
 
-\- \*\*email.message\*\* - Email content formatting and attachment handling
+\- \\email.message\\ - Email content formatting and attachment handling
 
-\### Infrastructure
+\ Infrastructure
 
-\- \*\*Gmail SMTP Server\*\* - Email delivery service
+\- \\Gmail SMTP Server\\ - Email delivery service
 
-\- \*\*Web Hosting\*\* - \[Specify your hosting platform\]
+\- \\Web Hosting\\ - \[Specify your hosting platform\]
 
-\### Development Tools
+\ Development Tools
 
-\- \*\*Python 3.x\*\* - Primary programming language
+\- \\Python 3.x\\ - Primary programming language
 
-\- \*\*Git\*\* - Version control
+\- \\Git\\ - Version control
 
-\- \*\*VS Code / PyCharm\*\* - Development environment
+\- \\VS Code / PyCharm\\ - Development environment
 
 \---
 
-\## Dataset Used
+\ Dataset Used
 
-\*\*No external datasets were used in this project.\*\*
+\\No external datasets were used in this project.\\
 
 The educational content is sourced from:
 
@@ -104,37 +104,37 @@ The educational content is sourced from:
 
 \---
 
-\## Installation & Setup
+\ Installation & Setup
 
 \`\`\`bash
 
-\# Clone the repository
+\ Clone the repository
 
 git clone https://github.com/\[your-username\]/stelleratlas.git
 
-\# Navigate to project directory
+\ Navigate to project directory
 
 cd stelleratlas
 
-\# Create virtual environment
+\ Create virtual environment
 
 python -m venv .venv
 
-\# Activate virtual environment
+\ Activate virtual environment
 
-\# On Windows:
+\ On Windows:
 
 .venv\\Scripts\\activate
 
-\# On macOS/Linux:
+\ On macOS/Linux:
 
 source .venv/bin/activate
 
-\# Install dependencies
+\ Install dependencies
 
 pip install flask flask-cors
 
-\# Run the application
+\ Run the application
 
 python scratch.py
 
@@ -154,7 +154,7 @@ smtp.login('your-email@gmail.com', 'your-app-password')
 
 \`\`\`
 
-\*\*Note:\*\* Use Gmail App Passwords for security. Never commit credentials to version control.
+\\Note:\\ Use Gmail App Passwords for security. Never commit credentials to version control.
 
 \---
 
@@ -180,7 +180,7 @@ stelleratlas/
 
 \---
 
-\## Features
+\ Features
 
 \- 📚 Comprehensive astronomy education content
 
@@ -196,7 +196,7 @@ stelleratlas/
 
 \---
 
-\## Future Enhancements
+\ Future Enhancements
 
 \- Interactive 3D sky map with real-time positions
 
@@ -212,7 +212,7 @@ stelleratlas/
 
 \---
 
-\## Contributing
+\ Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -230,4 +230,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 \---
 
-\*\*Made with ❤️ for astronomy enthusiasts worldwide\*\*
+\\Made with ❤️ for astronomy enthusiasts worldwide\\
