@@ -1,6 +1,6 @@
-\# StellerAtlas - Your Gateway to the Cosmos 🌌
+\ StellerAtlas - Your Gateway to the Cosmos 🌌
 
-\## Team Information
+\ Team Information
 
 \*\*Team Name:\*\* \[STELLAR ATLAS\]
 
